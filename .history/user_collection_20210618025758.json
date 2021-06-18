@@ -1,0 +1,16 @@
+{
+    "contact":
+    [
+        {
+            "username":"Vincent",
+            "password":"123456",
+            "email":"vdim@my.centennialcollege.ca",
+            "city":"Guelph",
+            "profession":"Student",
+            "age":"29"
+        },
+        {
+            
+        }
+    ]
+}

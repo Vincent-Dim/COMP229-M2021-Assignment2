@@ -1,0 +1,21 @@
+{
+    "clothing":
+    [
+        {
+            "username":"Vincent",
+            "password":"123456",
+            "email":"vdim@my.centennialcollege.ca",
+            "city":"Guelph",
+            "profession":"Student",
+            "age":"29"
+        },
+        {
+            "name":"Skinny Built-In Flex Ultimate Tech Chino Pants for Men",
+            "brand": "Old Navy",
+            "category": "Pants",
+            "colour": "In the Navy",
+            "size": "38W - 30L",
+            "price": "47.00"
+        }
+    ]
+}

@@ -8,7 +8,7 @@ const ContactSchema = new Schema
     ContactNumber: String
 },
 {
-    collection: "contact" // same as db collection
+    collection: "contacts"
 });
 
 const Model = mongoose.model("Contact", ContactSchema);
